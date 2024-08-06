@@ -32,7 +32,7 @@ variable "env" {
 
 variable "main_project" {
     type  = string
-    default = "netflix123"
+    default = "netflix"
 }
 
 variable "sub_project" {
